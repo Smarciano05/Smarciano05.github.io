@@ -1,0 +1,185 @@
+body{
+    background-color: white;
+}
+#conteneur{
+    border:medium hotpink inset;
+    width: 400px;
+    height: 600px;
+    position: relative;
+    margin: 0px auto 0px auto;
+    border-radius: 7px 7px 7px 7px;
+    background-color: #f2dfdf;
+    border-radius: 0px 0px 12px 12px;
+}
+#entete{
+    height: 100px;
+    width: 400px;
+    background-color: lightpink;
+}
+#photo {
+    height: 90px;
+    width: 70px;
+    margin-left: 20px;
+    border-radius: 0px 0px 5px 5px;
+    position: absolute;
+}
+#info{
+    height: 80px;
+    width: 260px;
+    margin-left: 120px;
+    padding-top: 10px;
+
+}
+.donnee{
+    width: 120px;
+    font-size: 0.8pc;
+    font-family: Arial;
+    display: block;
+    margin-top: 0px;
+    color: black;
+    position: relative;
+}
+
+#corp {
+    height: 420px;
+    width: 400px;
+    background-color: whitesmoke;
+}
+#gauche{
+    width: 260px;
+    height: 4px;
+    float: left;
+    padding-left: 23px;
+}
+#profil{
+    margin-right: 50px;
+    font-size: 15px;
+
+}
+.titre{
+    margin-left: 80px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: black;
+
+}
+.a1{
+
+    font-size: 0.8pc;
+    font-family:Verdana;
+    margin-top: 0px;
+    color: black;
+    position: relative;
+
+}
+#diplome{
+    margin-right: 50px;
+    font-size: 15px;
+
+
+}
+#interet{
+    margin-right: 50px;
+    font-size: 15px;
+}
+.interet{
+    margin-left: 70px;
+    margin-top: 6px;
+    margin-bottom: 5px;
+    color: black;
+    font-size: 15px;
+
+
+}
+#droite{
+    height: 420px;
+    width: 111px;
+    float: right;
+    background-color: lightgray;
+    padding-left: 5px;
+}
+#contact{
+    margin-left: 7px;
+    font-family: Arial;
+}
+.cont{
+    font-size: 15px;
+
+}
+#mail{
+    font-size: 11px;
+    font-family: "Times New Roman";
+
+}
+#adresse{
+    margin-left: 5px;
+}
+#tel{
+    width: 75px;
+    height: 15px;
+    margin-left:5px;
+    margin-top: 10px;
+}
+.tel{
+    font-size:10px ;
+}
+.num{
+    font-style:normal;
+    font-size: 9.5px;
+    font-family: "Times New Roman";
+    color: black;
+}
+#competence
+{
+    margin-left: 6px;
+}
+.comp{
+    font-style:italic;
+    font-family: Arial;
+
+}
+#Langue{
+    margin-left: 6px;
+}
+#ville\Pays{
+    margin-left: 5px;
+}
+#pied{
+    height: 85px;
+    width: 400px;
+    background-color: lightpink;
+    border: hotpink inset;
+    border-radius: 0px 0px 12px 12px;
+
+}
+.reseaux{
+    margin-left: 70px;
+    right: 60px;
+    left: 60px;
+}
+.text{
+    text-align: center;
+    margin-top: 0px;
+    font-family: Arial;
+    color: black;
+}
+.logo {
+
+    font-family: Arial;
+    color: black;
+    display: inline;
+    margin-top: 10px;
+    margin-right: 20px;
+    padding-left: 70px;
+
+}
+hr{
+    color: floralwhite;
+}
+
+
+
+
+
+
+
